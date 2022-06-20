@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>shark_107.jpg</filename>
+	<path>/Users/zacliu/Documents/Data Science/Projects_Science/04_Shark_pulse_c/code/tensorflow_shark_detector_v1/dataset/images/shark_107.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>399</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shark</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>30</ymin>
+			<xmax>574</xmax>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+</annotation>
